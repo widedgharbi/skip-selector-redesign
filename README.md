@@ -19,7 +19,7 @@ Redesign the skip selector page using modern UI/UX standards while maintaining t
 ## 🚀 Live Preview
 
 You can preview the updated version here:  
-👉 [Open in CodeSandbox](https://codesandbox.io/s/github/ton-user/skip-selector-redesign)
+👉 [Open in CodeSandbox](https://codesandbox.io/s/github/widedgharbi/skip-selector-redesign)
 
 ---
 
